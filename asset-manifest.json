@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dice-game/static/css/main.27056f54.chunk.css",
+    "main.js": "/dice-game/static/js/main.46f804bf.chunk.js",
+    "main.js.map": "/dice-game/static/js/main.46f804bf.chunk.js.map",
+    "runtime~main.js": "/dice-game/static/js/runtime~main.ecd78382.js",
+    "runtime~main.js.map": "/dice-game/static/js/runtime~main.ecd78382.js.map",
+    "static/js/2.64cfdff0.chunk.js": "/dice-game/static/js/2.64cfdff0.chunk.js",
+    "static/js/2.64cfdff0.chunk.js.map": "/dice-game/static/js/2.64cfdff0.chunk.js.map",
+    "index.html": "/dice-game/index.html",
+    "precache-manifest.bbe86293400c418d3e9eb1129d5e53e1.js": "/dice-game/precache-manifest.bbe86293400c418d3e9eb1129d5e53e1.js",
+    "service-worker.js": "/dice-game/service-worker.js",
+    "static/css/main.27056f54.chunk.css.map": "/dice-game/static/css/main.27056f54.chunk.css.map"
+  }
+}
